@@ -23,7 +23,7 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 - [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 - [ ] More than 4 functional game buttons
 - [ ] Playback speeds up on each turn
 - [ ] Computer picks a different pattern each time the game is played
@@ -47,16 +47,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+   [W3schools]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+   [One of the challenge I encountered in creating this submission was how to understand the general structure of the javascript code for making the game work. But with a lot of time spend on it and some review on javascript on different website I was able to understand the phenomen. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [ ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [If I had a few more hours to work on this project I would like to change little bit on the button disign by making them a circle instead of square and also adding one more button in the middle which would be equidistant to the side four bottom.]
 
 ## Interview Recording URL Link
 
