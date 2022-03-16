@@ -50,7 +50,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    [W3schools]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [One of the challenge I encountered in creating this submission was how to understand the general structure of the javascript code for making the game work. But with a lot of time spend on it and some review on javascript on different website I was able to understand the phenomen. ]
+   [One of the challenge I encountered in creating this submission was how to understand the general structure of the javascript code for making the game work. But with a lot of time spent on it and the review of some javascripts on W3school I was able to understand the phenomen. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
    [ ]
