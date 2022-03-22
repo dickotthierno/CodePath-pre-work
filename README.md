@@ -50,17 +50,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    [W3schools]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [One of the challenge I encountered in creating this submission was how to understand the general structure of the javascript code for making the game work. But with a lot of time spent on it and the review of some javascripts on W3school I was able to understand the phenomen. ]
+   [One of the challenge I encountered in creating this submission was how to understand the general structure of the javascript code for making the game work. But with a lot of time spent on it and the review of some javascripts lessons on W3school I was able to understand the phenomen. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [ ]
+   [The question I have after completing this assignment is about the main goal of this game, what users achieve from it? Is it something related to reduce stress or anxiety? ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
    [If I had a few more hours to work on this project I would like to change little bit on the button disign by making them a circle instead of square and also adding one more button in the middle which would be equidistant to the side four bottom.]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[https://www.loom.com/share/52a6718930cf498786552a49d0d18b59](your-link-here)
 
 ## License
 
