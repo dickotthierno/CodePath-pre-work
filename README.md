@@ -60,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[https://www.loom.com/share/52a6718930cf498786552a49d0d18b59](your-link-here)
+[x](https://www.loom.com/share/52a6718930cf498786552a49d0d18b59)
 
 ## License
 
